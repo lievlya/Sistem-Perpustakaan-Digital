@@ -1,0 +1,65 @@
+ # 📚 System Definition – Digital Library
+
+## 1. Pendefinisian Masalah
+Perpustakaan masih banyak dikelola manual. Ini menimbulkan keterlambatan pelayanan, kesalahan pencatatan, duplikasi data, dan kesulitan pencarian cepat.  
+Dengan teknologi informasi, seluruh manajemen perpustakaan bisa diotomatisasi: registrasi anggota, pencarian buku, peminjaman, pengembalian, dan laporan.
+
+## 2. Justifikasi Sistem
+Dibuat untuk menggantikan metode manual → jadi sistem digital yang efisien, mengurangi beban kerja pustakawan, data real-time, akses mudah.
+
+## 3. Sasaran Sistem
+- **Anggota Perpustakaan:** Registrasi, cari buku, pinjam, kembalikan.
+- **Admin:** Kelola data buku & anggota, transaksi, laporan.
+
+## 4. Batasan Sistem
+- Akses hanya web.
+- Tidak ada pengelolaan denda.
+- Tidak integrasi katalog antar perpustakaan.
+- Tidak arsip koleksi fisik detail.
+
+## 5. Fungsi & Sumber Daya
+### Hardware:
+- Komputer/laptop
+- Server lokal/cloud
+- Internet stabil
+
+### Software:
+- OS (Windows/Linux)
+- Browser
+- DBMS (MySQL/PostgreSQL)
+- Framework (Laravel/Django)
+
+### Personil:
+- Admin Sistem
+- Developer
+- Anggota perpustakaan
+
+## 6. Karakteristik Pengguna
+- **Admin:** Tambah/edit/hapus data, kelola pinjam/kembali.
+- **Anggota:** Registrasi, cari buku, pinjam, kembalikan, lihat riwayat.
+
+## 7. Lingkungan Pengembangan & Pemeliharaan
+- **Dev:** VS Code, MySQL, XAMPP, Laravel/Django.
+- **Operasi:** Diakses web browser.
+- **Pemeliharaan:** Backup rutin, update fitur, monitoring.
+
+## 8. Strategi Solusi
+- Modular, OOP.
+- DFD, ERD.
+- DB relational.
+- Fokus UX.
+
+## 9. Prioritas Modul
+1. Registrasi
+2. Manajemen buku
+3. Peminjaman
+4. Pengembalian
+5. Pencarian buku
+6. Laporan/riwayat
+
+## 10. Kriteria Penerimaan
+- Fungsi berjalan baik.
+- Data aman & stabil.
+- Mudah dipakai.
+- Keamanan login.
+- Akses web multi-device.
