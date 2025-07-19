@@ -6,9 +6,9 @@ Disusun oleh:
 - Anisa Masyahila (2313020259)
 
 ## 📄 Isi
-- `docs/` → Dokumen RPL (System Definition, SRS, Project Plan)
-- `diagrams/` → Diagram DFD, ERD, Use Case, UML
-- `README.md` → Deskripsi proyek
+- Dokumen RPL (System Definition, SRS, Project Plan)
+- Diagram DFD, ERD, Use Case, UML
+- Deskripsi proyek
 
 ## 🔗 Tujuan
 - Menyediakan dokumentasi lengkap.
