@@ -1,0 +1,48 @@
+# 📑 Software Requirements Specification (SRS) – Digital Library
+
+## 📋 Fungsi Utama
+
+**F1:** Registrasi Anggota  
+**F2:** Login & Logout  
+**F3:** Manajemen Buku (Admin)  
+**F4:** Pencarian Buku  
+**F5:** Peminjaman Buku  
+**F6:** Pengembalian Buku  
+**F7:** Riwayat & Laporan
+
+## ⚡ Persyaratan Kinerja
+- Pencarian ≤ 3 detik.
+- Pinjam/Kembali ≤ 5 detik.
+- Kapasitas: ≥10.000 buku, ≥5.000 anggota.
+- Multi-user min 50 user aktif.
+
+## 🔐 Penanganan Kesalahan
+- Validasi login.
+- Validasi input.
+- Validasi status buku.
+- Penanganan error server/koneksi.
+- Rollback transaksi jika error.
+
+## 🚀 Jadwal Fitur (Incremental)
+- **v1.0:** Registrasi, login, manajemen buku, pencarian.
+- **v1.1:** Modul peminjaman.
+- **v1.2:** Pengembalian & riwayat.
+- **v1.3:** Statistik & laporan.
+- **v2.0:** Ulasan buku, rekomendasi.
+
+## ✅ Kriteria Penerimaan per Versi
+- Semua fungsi jalan tanpa error.
+- Validasi input & output.
+- Riwayat data benar.
+- Laporan diekspor PDF/Excel.
+- UX responsif.
+
+## 📚 Panduan Pengguna
+Disiapkan untuk:
+- Registrasi & login
+- Cari buku
+- Pinjam & kembalikan
+- Cetak laporan
+
+## 📌 Daftar Istilah
+- CRUD, DFD, ERD, UML, UI/UX, Hosting, Session, Validasi.
