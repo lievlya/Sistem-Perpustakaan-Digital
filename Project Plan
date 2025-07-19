@@ -1,0 +1,58 @@
+# 🗂️ Project Plan – Digital Library
+
+## Model Life Cycle
+Metode **Waterfall**:
+1. Analisis kebutuhan
+2. Desain sistem (UML)
+3. Implementasi
+4. Pengujian
+5. Pemeliharaan
+
+## Struktur Tim
+- Project Manager
+- Analis Sistem
+- 2 Programmer
+- UI/UX Designer
+- Dokumentator
+
+## Sumber Daya
+- Laptop/PC min RAM 8GB
+- VS Code, XAMPP, MySQL, GitHub
+- Draw.io, Canva
+- Internet stabil
+
+## Jadwal Pengembangan
+- Minggu 1: Analisis
+- Minggu 2: Desain
+- Minggu 3-4: Implementasi
+- Minggu 5: Pengujian
+- Minggu 6: Dokumentasi & pelatihan
+
+## Estimasi Biaya
+- Operasional: Rp500.000
+- Cetak: Rp100.000
+- Total: Rp600.000
+
+## Pengawasan
+- Rapat evaluasi mingguan
+- Trello, Gantt Chart
+- Code review mingguan
+- Laporan mingguan
+
+## Bahasa Pemrograman
+- Frontend: HTML, CSS, JS
+- Backend: PHP Laravel atau Python Django
+- Database: MySQL
+
+## Rencana Pelatihan & Instalasi
+- Modul panduan
+- Demo langsung
+- Setup di XAMPP/Hosting
+- Uji coba & sosialisasi
+
+## Dokumen Pendukung
+- SRS
+- Desain Diagram
+- API (jika ada)
+- User Manual
+- Catatan Rilis
